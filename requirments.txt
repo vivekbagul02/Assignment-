@@ -3,3 +3,4 @@ flask
 django
 git
 html 
+dev 2 has come requirements now
